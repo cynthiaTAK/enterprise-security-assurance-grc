@@ -1,0 +1,4 @@
+Finding ID,Area,Summary,Status,Closure Approval,Evidence Reference
+EX-001,MFA evidence,Five accounts require evidence reconciliation; two service accounts covered by a scoped risk acceptance,Open - Evidence Validation,Pending,EV-001..EV-007
+EX-002,Least privilege,Simulated service account administrator privileges reduced to read-only,Closed in exercise,Approved in exercise,EV-003 / PERM-EXPORT-002
+EX-003,Offboarding,Delayed deactivation and missing failure alert; historical unauthorized login,Open - Pending Final Approval,Pending,EVD-008 / AR-2026-Q3

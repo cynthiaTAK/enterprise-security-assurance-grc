@@ -1,0 +1,6 @@
+Action ID,Finding,Action,Owner,Required Evidence,Final Exercise Assessment
+ACT-001,EX-003,Document delayed disablement root cause,IAM Engineering,Root cause analysis,Validated in final scenario
+ACT-002,EX-003,Correct offboarding automation,IAM Engineering,Approved change and configuration,Validated in final scenario
+ACT-003,EX-003,Implement failure alerts,IAM / Security Operations,Alert configuration and acknowledgement,Validated in final scenario
+ACT-004,EX-003,Retest disablement and failure alerting,IAM / GRC,Execution logs and approval,Validated in final scenario
+ACT-005,EX-003,Obtain authorized finding closure,Designated closure approver,Signed decision and date,Pending

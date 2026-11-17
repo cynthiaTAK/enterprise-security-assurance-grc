@@ -1,0 +1,8 @@
+Test ID,Test Phase,Expected Result,Reported Result,Assessment,Notes
+OT-001,Initial,Disable within required timeframe,Pass,Pass,Simulated
+OT-002,Initial,Disable within required timeframe,Pass,Pass,Simulated
+OT-003,Initial,Disable within required timeframe,Pass,Pass,Simulated
+OT-004,Initial,Disable within required timeframe,Pass,Pass,Simulated
+OT-005,Initial,Disable within required timeframe,Six hours late; no failure alert,Fail,Simulated
+RT-001 to RT-010,Retest,All ten disable within required timeframe,10 of 10 reported passed,Validated in final exercise scenario,Aggregate scenario summary; not ten fabricated event-level log rows
+AT-001,Alert retest,Failure generates actionable alert,Alert reportedly delivered and acknowledged,Validated in final exercise scenario,Separate simulated alert test

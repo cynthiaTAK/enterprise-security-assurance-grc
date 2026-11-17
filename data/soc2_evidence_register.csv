@@ -1,0 +1,4 @@
+Evidence ID,Illustrative SOC 2 Criterion,Control Topic,Evidence Requested,Validation Status,Linked Finding
+EVD-001,CC6.1,Logical access security,Access control policy,Requested,
+EVD-002,CC6.2,Access provisioning,Access approval records,Requested,
+EVD-008,CC6.3 (illustrative),Periodic access review / termination,Q3 access review; investigation; remediation validation,Historical deficiency retained; period assessment pending,EX-003
